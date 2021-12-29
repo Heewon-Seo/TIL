@@ -15,10 +15,16 @@ public class FindChar {
         str = str.toUpperCase();
         t = Character.toUpperCase(t);
 
+        // 솔루션 1
         for(int i = 0 ; i < str.length() ; i++) {
             if(str.charAt(i)==t) {
                 answer++;
             }
+        }
+        
+        // 솔루션 2
+        for(char x : str.toCharArray()) {
+            if(x==t) answer++;
         }
         return answer;
     }
