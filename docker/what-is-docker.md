@@ -54,7 +54,7 @@
 
 &#x20;
 
-![https://youtu.be/LXJhA3VWXFA](<../.gitbook/assets/image (1).png>)
+![https://youtu.be/LXJhA3VWXFA](<../.gitbook/assets/image (1) (1).png>)
 
 * 일단 로컬 머신과 서버에 둘다 도커가 깔려있어야 함
 * Dockerfile을 토대로 이미지를 생성해서
