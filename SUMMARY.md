@@ -9,3 +9,7 @@
 ## 🦣 Algorithm
 
 * [ListIterator 인터페이스](algorithm/listiterator.md)
+
+## 🦓 JavaScript
+
+* [Closure](javascript/closure.md)
